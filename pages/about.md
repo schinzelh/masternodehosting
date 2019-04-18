@@ -4,7 +4,7 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: >-
-  This is a test.
+  This is a test. And another one
 
 
   This is an example of a standard Jekyll page. You can edit it with Netlify
